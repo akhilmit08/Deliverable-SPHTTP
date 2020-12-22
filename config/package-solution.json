@@ -1,0 +1,13 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "ccar-sphttp-client-side-solution",
+    "id": "5b957c21-6ae4-444f-aa6d-7484172181db",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true,
+    "isDomainIsolated": false
+  },
+  "paths": {
+    "zippedPackage": "solution/ccar-sphttp.sppkg"
+  }
+}
